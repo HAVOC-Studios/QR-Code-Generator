@@ -1,6 +1,6 @@
 # QR Code Overlay Tool
 
-This Python script overlays a QR code onto a given background image. The QR code can be scanned to direct users to a specified URL.
+This Python script simply creates QR codes. The QR code can be scanned to direct users to a specified URL.
 
 ## Features
 
