@@ -20,7 +20,11 @@ This Python script overlays a QR code onto a given background image. The QR code
    ```sh
    git clone https://github.com/JayLovesProgramming/QR-Code-Generator
    cd qr-code-overlay
+```
 
-1. Install the required library
+2. Install the required library
 
 ``` pip install qrcode[pil] pillow
+```
+
+3. Install the required library
