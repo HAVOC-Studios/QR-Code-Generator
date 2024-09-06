@@ -1,4 +1,5 @@
-import qrcode # Import the qr code library to allow to actually do this
+# Import the QR code library to allow to actually do this
+import qrcode
 
 # Define the URL you want to use to create the QR code
 URL = "https://github.com/JayLovesProgramming"
