@@ -23,7 +23,7 @@ This Python script overlays a QR code onto a given background image. The QR code
 
 2. Install the required library
 
-` pip install qrcode[pil] pillow
-`
+`` pip install qrcode[pil] pillow
+``
 
 3. Install the required library
