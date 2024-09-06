@@ -27,7 +27,6 @@ This Python script overlays a QR code onto a given background image. The QR code
 ```
 
 3. Edit the URL to whatever you want the QR code to link to
-URL = `Your URL of choice`
 
 4. Run the script
-``` python qrgenerator.py```
+`python qrgenerator.py`
