@@ -26,4 +26,8 @@ This Python script overlays a QR code onto a given background image. The QR code
 ``` pip install qrcode[pil] pillow
 ```
 
-3. Install the required library
+3. Edit the URL to whatever you want the QR code to link to
+URL = `Your URL of choice`
+
+4. Run the script
+``` python qrgenerator.py```
