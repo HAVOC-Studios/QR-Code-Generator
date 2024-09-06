@@ -23,7 +23,7 @@ This Python script overlays a QR code onto a given background image. The QR code
 
 2. Install the required library
 
-```pip install qrcode[pil] pillow```
+Use `pip install qrcode[pil] pillow` to install the necessary packages.
 
 3. Edit the URL to whatever you want the QR code to link to
 
